@@ -1,0 +1,13 @@
+header 70vh bacground image
+
+hr (wysokosc szerokosc 70px) margines : auto
+paragraf
+Button  Link
+
+Nawigacja (kotwica) sticki 
+
+Section (paddingi góra dó³) text align center
+O MNIE h2
+
+POrtfolio flex div 75%
+
