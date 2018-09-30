@@ -1,4 +1,4 @@
-header 70vh bacground image
+header 70vh bacground image (obrazek wycentrowac i rozciagnac (cover). 
 
 hr (wysokosc szerokosc 70px) margines : auto
 paragraf
